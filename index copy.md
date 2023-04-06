@@ -1,45 +1,18 @@
-# 为什么我要转专业？
+---
+layout: default
+---
 
-1.  有近10门研究生机械力学方向的课，上学期补修过一门本科课程《钻井工程》，因为本科是计算机专业，这对我十分困难
-2.  因为疫情和家庭缘故，休学半年，目前在家，如果开学继续跟老师进度，一定会跟不上，在实验室挂科不仅会给老师丢脸，还会面临学分修不满而被退学
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[Link to another page](./another-page.html).
 
-# CV方向我目前的优势？
+There should be whitespace between paragraphs.
 
-1.  本科学的是软件工程，拿了研究生一等奖学金
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-2.  以前本科时，拿过蓝桥杯国奖，互联网+省奖，数学建模国奖，参加过华为举办的一些比赛，有一些软件著作，发过一点不入流的杂志，考过软考和各种计算机等级证书等
+# Header 1
 
-3.  我非常喜欢计算机技术，掌握初步的全栈开发能力，即使是一门陌生的编程语言，最多要半个月，就能掌握并用其开发出老师想要的产品
-
-4.  为了锻炼一下自己的应用和写作能力，我在校区参加了2月份的数学建模美赛，是用机器学习去解决实际问题的一次初步尝试，如果老师对我的文章感兴趣，欢迎老师来指正
-
-5.  我已经掌握了机器学习的基础知识，还有一些比如pytorch、openCV等、也针对性的学了部分概率论，最优化的一些理论基础，对于配置训练服务器比如：GPU驱动、cuda和torch版本、anconda虚拟环境，都有一定经验
-
-
-# 目前在家进行的探索目标？
-
-1.  对基础算法十分感兴趣，如果有时间，我一定好好准备ccf csp认证，争取达到400+的分数
-
-2.  目前在参加正在举办的cv方向的kaggle比赛，Google - Isolated Sign Language Recognition | Kaggle，阅读了一篇最新2023CVPR的文章[2303.03202] Continuous Sign Language Recognition with Correlation Network (arxiv.org)，打算初步复现该模型，用其做baseline，对模型进行一系列微调
-
-3.  我也喜欢尝试挑战一下自己，规划自己休学期间在家独立发出一篇3~4区的sci，稿费通过寻找同学AA制，但缺乏的技能实在是太多了
-我对自己的方向十分迷茫，最近在家里研究并复现一些顶会，希望能找到一个好的方向，找到一个好的ida，独立发一篇文章，目前我一直在做该工作
-
-
-# 目前在家进行的探索目标？
-
-1.  我可以帮老师做任何项目（软件部分）
-2.  我也可以帮助老师做机器学习方向的相关实验
-3.  我可以帮助老师端茶递水
-
-十分十分想成为老师的学生，恳请老师能够救救我
-
-# 我的缺点？
-
-1.  本科院校不好
-2.  英语口语、听力不好
-
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
