@@ -24,8 +24,7 @@
 
 2.目前在参加正在举办的cv方向的kaggle比赛，[Google - Isolated Sign Language Recognition | Kaggle](https://www.kaggle.com/competitions/asl-signs)，阅读了一篇最新2023CVPR的文章[Continuous Sign Language Recognition with Correlation Network (arxiv.org)](https://arxiv.org/abs/2303.03202)，打算初步复现该模型，用其做baseline，对模型进行一系列微调
 
-3.我也喜欢尝试挑战一下自己，规划自己休学期间在家独立发出一篇3~4区的sci，稿费通过寻找同学AA制，但缺乏的技能实在是太多了
-我对自己的方向十分迷茫，最近在家里研究并复现一些顶会，希望能找到一个好的方向，找到一个好的ida，独立发一篇文章，目前我一直在做该工作
+3.我也喜欢尝试挑战一下自己，稿费通过寻找需要的同学AA制，规划自己休学期间独立发出一篇3~4区cv领域的sci，但现实往往是残酷的，目前的进度堪忧，任重而道远。近期的工作是研究并复现一些cv方向的经典文章，希望借此能找到一个好的方向，找到一个好的idea，完成自己的挑战
 * * *
 
 ##   我可以做的工作？
